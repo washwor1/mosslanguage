@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "xstring": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "xtree": "cpp",
+        "ios": "cpp"
     }
 }
